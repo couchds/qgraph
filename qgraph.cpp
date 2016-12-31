@@ -15,7 +15,7 @@
 #define SUCCESS 0
 
 using namespace boost;
-const char *usage = "qgraph adjacency_matrix";
+static const char *usage = "qgraph adjacency_matrix";
 
 
 /* Since we don't need to weight the edges, we can just
